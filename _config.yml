@@ -1,0 +1,26 @@
+# Site settings
+# 姓名
+name: 李女士
+# 所在城市
+location: 北京
+# 上家公司名称(全称)
+company: 北京京东集团
+position: Java开发工程师
+# 自己的github地址（如果github上有较好的开源项目最好）
+github: https://github.com/
+#
+facebook: https://www.facebook.com/
+# 手机号码
+phone: 18888888888
+# 邮箱地址
+email: linvshi@gmail.com
+
+
+baseurl: "/"
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
